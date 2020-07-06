@@ -19,7 +19,7 @@ particlesJS('particles-js',
         "value": 80,
         "density": {
           "enable": true,
-          "value_area": 100 //区域间隔密度 值越小粒子越多
+          "value_area": 50 //区域间隔密度 值越小粒子越多
         }
       },
       "color": {
