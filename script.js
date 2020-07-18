@@ -1125,7 +1125,7 @@ function render (target) {
 
 function drawColor (target, color) {
     colorProgram.bind();
-    gl.uniform4f(colorProgram.uniforms.color, color.r, color.g, color.b, 1);
+    gl.uniform4f(colorProgram.uniforms.color, color.r, color.g, color.b, 0);
     blit(target);
 }
 
