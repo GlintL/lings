@@ -506,8 +506,8 @@
         ```
 
     2.  ``` {#codeblock_b4t_pej_8fe}
-    mkdir -p /usr/local/apache2/htdocs/phpmyadmin
-    ```
+        mkdir -p /usr/local/apache2/htdocs/phpmyadmin
+        ```
 
 2.  依次运行以下命令下载phpMyAdmin压缩包并解压。 
     1.  ``` {#codeblock_krx_ugy_8mk}
